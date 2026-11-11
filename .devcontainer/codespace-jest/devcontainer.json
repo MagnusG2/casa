@@ -1,0 +1,4 @@
+{
+  "name": "CASA Jest environment",
+  "image": "mcr.microsoft.com/devcontainers/universal:2"
+}
